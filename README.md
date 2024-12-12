@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hello!
+
+I'm a data scientist excited about creating excellent data visualizations and supporting teams organization-wide with using data effectively. To that end, I've developed data pipelines to support teams in monitoring data flow from external sources 🧐, built dashboards to share health statistics with communities 📈, and developed a nationwide coding community of practice 👥. 
+
+I specialize in coding in R, Python, and SQL, with the goal of communicating findings to audiences from diverse professional backgrounds. When I'm not behind my computer, I'm running 🏃‍♀️ on my local trails with my dogs 🐶🐶. 
+
+
 
 <!--
 **vanessawhattam/vanessawhattam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
